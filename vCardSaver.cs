@@ -7,8 +7,6 @@ using System.IO;
 
 namespace vCard
 {
-    public class VCardSaver
-
      public class VCardSaver
     {
         public void SaveToFile(VCard vcard, string directory)
